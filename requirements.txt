@@ -1,0 +1,6 @@
+requirements
+
+pip install pandas  
+pip install numPy 
+pip install matplotlib
+pip install seaborn
